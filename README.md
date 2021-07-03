@@ -3,7 +3,7 @@ Cyclistic Case Study: Google Data Analytics
 ## Scenario:
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of
 marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your
-team wants to understand how casual riders and annual members use Cyclistic bikes diƸerently. From these insights, your team
+team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team
 will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve
 your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
@@ -28,5 +28,6 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 ## Objective:
 Find out how do annual members and casual riders use Cyclistic bikes differently so that these insights will be essential to design a marketing strategy aimed to convert casual riders into annual members.
 
-Welcome to the Cyclistic bike-share analysis case study! In this case study, I have performed many real-world tasks as a junior data analyst. In order to answer the key business questions, I followed the steps of the data analysis process: ask, prepare, process, analyze, share, and act. In this case study, I used various Python packages for data analysis and visualization purposes to answer the question for an organization so that they can make a data-driven decision and they will be able to come up with a marketing strategy which to attract more customers based on my insights and recommendations.
+## Summary of the project
+In order to answer the key business questions, I followed the steps of the data analysis process: ask, prepare, process, analyze, share, and act. In this case study, I used various Python packages for data analysis and visualization purposes to answer the question for an organization so that they can make a data-driven decision and they will be able to come up with a marketing strategy which to attract more customers based on my insights and recommendations.
 Data Source: The data has been made available by Motivate International Inc. which can be found at: https://divvy-tripdata.s3.amazonaws.com/index.html 
